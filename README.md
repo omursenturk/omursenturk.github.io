@@ -1,3 +1,11 @@
-### omursenturk.github.io
+# Ömür Şentürk's github.io page
 
-Test mest Omur
+### Welcome
+
+Some text
+
+
+
+### A little bit about me
+
+You won't believe, but there's some more text here too...
