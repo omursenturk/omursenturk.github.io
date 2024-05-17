@@ -18,23 +18,23 @@ effective coordination, and rapid learning capacity.
 
 ## **Key areas of expertise**
 
-Product backlog management Business & systems analysis Jira, Confluence
+Product backlog management    | Business & systems analysis   | Jira, Confluence
 
-Informed decision making Dependency management Miro, Notion
+Informed decision making      | Dependency management         | Miro, Notion
 
-Stakeholder management Requirement elicitation Ecommerce domain
+Stakeholder management        | Requirement elicitation       | Ecommerce domain
 
-Communication Impact analysis Telecom domain
+Communication                 | Impact analysis               | Telecom domain
 
-Road mapping Relational databases (SQL) SaaS tools
+Road mapping                  | Relational databases (SQL)    | SaaS tools
 
-Product vision Python scripting Open source tools
+Product vision                | Python scripting              | Open source tools
 
-Data visualization Storytelling Jupyter, PowerBI
+Data visualization            | Storytelling                  | Jupyter, PowerBI
 
-API documentation Event-driven integration Data synchronization
+API documentation             | Event-driven integration      | Data synchronization
 
-BPMN / UML Solution documentation Data value flows
+BPMN / UML / PlantUML         | Solution documentation        | Data value flows
 
 ## **Experiences**
 
