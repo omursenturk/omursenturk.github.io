@@ -18,9 +18,8 @@ effective coordination, and rapid learning capacity.
 
 ## **Key areas of expertise**
 
-||||
-|----------|:-------------|:------|
 Product backlog management| Business & systems analysis| Jira, Confluence|
+|----------|:-------------|:------|
 Informed decision making| Dependency management| Miro, Notion|
 Stakeholder management| Requirement elicitation| Ecommerce domain|
 Communication| Impact analysis| Telecom domain|
