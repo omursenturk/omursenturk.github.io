@@ -18,27 +18,21 @@ effective coordination, and rapid learning capacity.
 
 ## **Key areas of expertise**
 
-Product backlog management    | Business & systems analysis   | Jira, Confluence
-
-Informed decision making      | Dependency management         | Miro, Notion
-
-Stakeholder management        | Requirement elicitation       | Ecommerce domain
-
-Communication                 | Impact analysis               | Telecom domain
-
-Road mapping                  | Relational databases (SQL)    | SaaS tools
-
-Product vision                | Python scripting              | Open source tools
-
-Data visualization            | Storytelling                  | Jupyter, PowerBI
-
-API documentation             | Event-driven integration      | Data synchronization
-
-BPMN / UML / PlantUML         | Solution documentation        | Data value flows
+||||
+|----------|:-------------|:------|
+Product backlog management| Business & systems analysis| Jira, Confluence|
+Informed decision making| Dependency management| Miro, Notion|
+Stakeholder management| Requirement elicitation| Ecommerce domain|
+Communication| Impact analysis| Telecom domain|
+Road mapping| Relational databases (SQL)| SaaS tools|
+Product vision| Python scripting| Open source tools|
+Data visualization| Storytelling| Jupyter, PowerBI|
+API documentation| Event-driven integration| Data synchronization|
+BPMN / UML / PlantUML| Solution documentation| Data value flows|
 
 ## **Experiences**
 
-### **Bus. Analyst - Product Owner \| [rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - Present)**
+### **Business Analyst - Product Owner @[rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - Present)**
 
 Serve dual roles as Business Analyst and Product Owner, collaborating
 with client Product Owners, Customer Experience, Product Management,
@@ -76,12 +70,12 @@ robust data collection. Streamlined report generation and distribution
 by automating the emailing process to relevant stakeholders,
 significantly boosting system reliability and stakeholder engagement.
 
-### **Tech. Business Analyst \| [G-Star](https://www.g-star.com/), Amsterdam 🇳🇱 (2022 Mar. -- 2022 July)**
+### **Technical. Business Analyst @[G-Star](https://www.g-star.com/), Amsterdam 🇳🇱 (2022 Mar. -- 2022 July)**
 
 Partnered with internal Product Owners to gather requirements and
 develop high-level solution documents tailored for the ecommerce sector.
 
-### **Sr. Bus. Analyst - Product Owner \| [Turkcell](https://www.turkcell.com.tr/english-support), Istanbul 🇹🇷 (2012 Aug. -- 2022 Feb.)**
+### **Sr. Business Analyst - Product Owner @[Turkcell](https://www.turkcell.com.tr/english-support), Istanbul 🇹🇷 (2012 Aug. -- 2022 Feb.)**
 
 Functioned within the CRM domain (SOX critical) of the ICT department in
 the telecom industry, progressing from Business Analysis to more
@@ -118,7 +112,7 @@ exceptional analytical and architectural expertise.
 to write code and deploy it to production within the CRM domain, setting
 a new standard for technical contribution.
 
-### **Jr. Test Engineer \| [Ericsson](https://www.ericsson.com/), Istanbul 🇹🇷 (2009 Jan. -- 2011 Dec.)**
+### **Jr. Test Engineer @[Ericsson](https://www.ericsson.com/), Istanbul 🇹🇷 (2009 Jan. -- 2011 Dec.)**
 
 Developed and executed manual test scenarios for product releases,
 maintaining close collaboration with developers, business analysts,
