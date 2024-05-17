@@ -1,6 +1,6 @@
 # **ÖMÜR ŞENTÜRK**
 
-📞 +31 6 2555 7971 | 📧 <omursenturk@gmail.com> | 🏠 Amsterdam, Netherlands | <a href="https://www.linkedin.com/in/omursenturk" target="_blank">
+📞 [+31 6 2555 7971](tel:+31625557971) | 📧 <omursenturk@gmail.com> | 🏠 Amsterdam, Netherlands | <a href="https://www.linkedin.com/in/omursenturk" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;"> LinkedIn
 </a>
 
