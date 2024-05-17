@@ -1,8 +1,10 @@
 # **ÖMÜR ŞENTÜRK**
 
-**Phone**: +31 6 2555 7971 \| **Email**: <omursenturk@gmail.com> \| **Address**:
-Amsterdam, Netherlands \| **LinkedIn**: 🇳🇱
-[www.linkedin.com/in/omursenturk](http://www.linkedin.com/in/omursenturk)
+📞 +31 6 2555 7971 | 📧 <omursenturk@gmail.com> | 🏠 Amsterdam, Netherlands | :linkedin: [www.linkedin.com/in/omursenturk](http://www.linkedin.com/in/omursenturk)
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/omursenturk)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub]([https://github.com/](https://omursenturk.github.io/)])
 
 ## **Shortly about me**
 
@@ -81,7 +83,7 @@ significantly boosting system reliability and stakeholder engagement.
 Partnered with internal Product Owners to gather requirements and
 develop high-level solution documents tailored for the ecommerce sector.
 
-### **Sr. Bus. Analyst - Product Owner \| [Turkcell](https://www.turkcell.com.tr/english-support), Istanbul (2012 Aug. -- 2022 Feb.)**
+### **Sr. Bus. Analyst - Product Owner \| [Turkcell](https://www.turkcell.com.tr/english-support), Istanbul 🇹🇷 (2012 Aug. -- 2022 Feb.)**
 
 Functioned within the CRM domain (SOX critical) of the ICT department in
 the telecom industry, progressing from Business Analysis to more
@@ -118,7 +120,7 @@ exceptional analytical and architectural expertise.
 to write code and deploy it to production within the CRM domain, setting
 a new standard for technical contribution.
 
-### **Jr. Test Engineer \| [Ericsson](https://www.ericsson.com/), Istanbul (2009 Jan. -- 2011 Dec.)**
+### **Jr. Test Engineer \| [Ericsson](https://www.ericsson.com/), Istanbul 🇹🇷 (2009 Jan. -- 2011 Dec.)**
 
 Developed and executed manual test scenarios for product releases,
 maintaining close collaboration with developers, business analysts,
