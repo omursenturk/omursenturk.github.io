@@ -38,7 +38,7 @@ BPMN / UML Solution documentation Data value flows
 
 ## **Experiences**
 
-### **Bus. Analyst - Product Owner \| [[rb2]](https://www.rb2.nl/en), Purmerend (2022 Aug. - Present)**
+### **Bus. Analyst - Product Owner \| [rb2](https://www.rb2.nl/en), Purmerend (2022 Aug. - Present)**
 
 Serve dual roles as Business Analyst and Product Owner, collaborating
 with client Product Owners, Customer Experience, Product Management,
@@ -76,12 +76,12 @@ robust data collection. Streamlined report generation and distribution
 by automating the emailing process to relevant stakeholders,
 significantly boosting system reliability and stakeholder engagement.
 
-### **Tech. Business Analyst \| [[G-Star]](https://www.g-star.com/), Amsterdam (2022 Mar. -- 2022 July)**
+### **Tech. Business Analyst \| [G-Star](https://www.g-star.com/), Amsterdam (2022 Mar. -- 2022 July)**
 
 Partnered with internal Product Owners to gather requirements and
 develop high-level solution documents tailored for the ecommerce sector.
 
-### **Sr. Bus. Analyst - Product Owner \| [[Turkcell]](https://www.turkcell.com.tr/english-support), Istanbul (2012 Aug. -- 2022 Feb.)**
+### **Sr. Bus. Analyst - Product Owner \| [Turkcell](https://www.turkcell.com.tr/english-support), Istanbul (2012 Aug. -- 2022 Feb.)**
 
 Functioned within the CRM domain (SOX critical) of the ICT department in
 the telecom industry, progressing from Business Analysis to more
@@ -118,7 +118,7 @@ exceptional analytical and architectural expertise.
 to write code and deploy it to production within the CRM domain, setting
 a new standard for technical contribution.
 
-### **Jr. Test Engineer \| [[Ericsson]](https://www.ericsson.com/), Istanbul (2009 Jan. -- 2011 Dec.)**
+### **Jr. Test Engineer \| [Ericsson](https://www.ericsson.com/), Istanbul (2009 Jan. -- 2011 Dec.)**
 
 Developed and executed manual test scenarios for product releases,
 maintaining close collaboration with developers, business analysts,
@@ -128,13 +128,13 @@ sales, marketing and other key stakeholders.
 
 ## **Education**
 
-[[Galatasaray University]](https://gsu.edu.tr/en) --
+[Galatasaray University](https://gsu.edu.tr/en) --
 Engineering Management, M.Sc. 2017, Istanbul Turkey
 
-[[Uni. of Southern Denmark]](https://www.sdu.dk/en) --
+[Uni. of Southern Denmark](https://www.sdu.dk/en) --
 Manufac. and Engineering, Erasmus, 2010, Odense, Denmark
 
-[[Yildiz Technical University]](https://yildiz.edu.tr/en) --
+[Yildiz Technical University](https://yildiz.edu.tr/en) --
 Industrial Engineering. B.Eng. 2010, Istanbul Turkey
 
 ## **Languages** 
