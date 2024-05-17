@@ -1,7 +1,7 @@
 # **ÖMÜR ŞENTÜRK**
 
 **Phone**: +31 6 2555 7971 \| **Email**: <omursenturk@gmail.com> \| **Address**:
-Amsterdam, Netherlands \| **LinkedIn**:
+Amsterdam, Netherlands \| **LinkedIn**: 🇳🇱
 [www.linkedin.com/in/omursenturk](http://www.linkedin.com/in/omursenturk)
 
 ## **Shortly about me**
@@ -38,7 +38,7 @@ BPMN / UML Solution documentation Data value flows
 
 ## **Experiences**
 
-### **Bus. Analyst - Product Owner \| [rb2](https://www.rb2.nl/en), Purmerend (2022 Aug. - Present)**
+### **Bus. Analyst - Product Owner \| [rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - Present)**
 
 Serve dual roles as Business Analyst and Product Owner, collaborating
 with client Product Owners, Customer Experience, Product Management,
@@ -76,7 +76,7 @@ robust data collection. Streamlined report generation and distribution
 by automating the emailing process to relevant stakeholders,
 significantly boosting system reliability and stakeholder engagement.
 
-### **Tech. Business Analyst \| [G-Star](https://www.g-star.com/), Amsterdam (2022 Mar. -- 2022 July)**
+### **Tech. Business Analyst \| [G-Star](https://www.g-star.com/), Amsterdam 🇳🇱 (2022 Mar. -- 2022 July)**
 
 Partnered with internal Product Owners to gather requirements and
 develop high-level solution documents tailored for the ecommerce sector.
