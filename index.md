@@ -1,7 +1,7 @@
 # **ÖMÜR ŞENTÜRK**
 
-Phone: +31 6 2555 7971 \| Email: <omursenturk@gmail.com> \| Address:
-Amsterdam, Netherlands \| LinkedIn:
+**Phone**: +31 6 2555 7971 \| **Email**: <omursenturk@gmail.com> \| **Address**:
+Amsterdam, Netherlands \| **LinkedIn**:
 [www.linkedin.com/in/omursenturk](http://www.linkedin.com/in/omursenturk)
 
 ## **Shortly about me**
