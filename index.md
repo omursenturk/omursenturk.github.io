@@ -124,8 +124,6 @@ Developed and executed manual test scenarios for product releases,
 maintaining close collaboration with developers, business analysts,
 sales, marketing and other key stakeholders.
 
-## 
-
 ## **Education**
 
 [Galatasaray University](https://gsu.edu.tr/en) --
