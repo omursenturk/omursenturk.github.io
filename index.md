@@ -1,7 +1,7 @@
 # **ÖMÜR ŞENTÜRK**
 
-📞 +31 6 2555 7971 | 📧 <omursenturk@gmail.com> | 🏠 Amsterdam, Netherlands | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/omursenturk)
-| [![GitHub](https://i.sstatic.net/tskMh.png) GitHub]([https://github.com/](https://omursenturk.github.io/)])
+📞 +31 6 2555 7971 | 📧 <omursenturk@gmail.com> | 🏠 Amsterdam, Netherlands | [[Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/omursenturk)
+| [[GitHub](https://i.sstatic.net/tskMh.png) GitHub]([https://github.com/](https://omursenturk.github.io/)])
 
 ## **Shortly about me**
 
