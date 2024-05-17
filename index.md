@@ -18,16 +18,54 @@ effective coordination, and rapid learning capacity.
 
 ## **Key areas of expertise**
 
-Product backlog management| Business & systems analysis| Jira, Confluence|
-|----------|:-------------|:------|
-Informed decision making| Dependency management| Miro, Notion|
-Stakeholder management| Requirement elicitation| Ecommerce domain|
-Communication| Impact analysis| Telecom domain|
-Road mapping| Relational databases (SQL)| SaaS tools|
-Product vision| Python scripting| Open source tools|
-Data visualization| Storytelling| Jupyter, PowerBI|
-API documentation| Event-driven integration| Data synchronization|
-BPMN / UML / PlantUML| Solution documentation| Data value flows|
+<table border="0">
+  <tr>
+    <td>Product backlog management</td>
+    <td>Business & systems analysis</td>
+    <td>Jira, Confluence</td>
+  </tr>
+  <tr>
+    <td>Informed decision making</td>
+    <td>Dependency management</td>
+    <td>Miro, Notion</td>
+  </tr>
+  <tr>
+    <td>Stakeholder management</td>
+    <td>Requirement elicitation</td>
+    <td>Ecommerce domain</td>
+  </tr>
+  <tr>
+    <td>Communication</td>
+    <td>Impact analysis</td>
+    <td>Telecom domain</td>
+  </tr>
+  <tr>
+    <td>Road mapping</td>
+    <td>Relational databases (SQL)</td>
+    <td>SaaS tools</td>
+  </tr>
+  <tr>
+    <td>Product vision</td>
+    <td>Python scripting</td>
+    <td>Open source tools</td>
+  </tr>
+  <tr>
+    <td>Data visualization</td>
+    <td>Storytelling</td>
+    <td>Jupyter, PowerBI</td>
+  </tr>
+  <tr>
+    <td>API documentation</td>
+    <td>Event-driven integration</td>
+    <td>Data synchronization</td>
+  </tr>
+  <tr>
+    <td>BPMN / UML / PlantUML</td>
+    <td>Solution documentation</td>
+    <td>Data value flows</td>
+  </tr>
+</table>
+
 
 ## **Experiences**
 
