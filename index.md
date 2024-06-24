@@ -73,13 +73,11 @@ effective coordination, and rapid learning capacity.
 
 Working on iPaaS Solution, Grand Central, within 2 teams at the same time. Collaborating with Product Managers, Solution Architects, Backend engineers as well as Business Analysts from other teams.
 
-Responsibilities include eliciting requirements, managing product backlogs, writing technical detailed user stories & investigating spikes by getting in touch with other parts of the organizations (amongst 2000+ employees).
+Responsibilities include eliciting requirements, managing product backlogs, writing technical detailed user stories & investigating spikes by getting in touch with other units of the organisation (amongst 2000+ employees).
 
 ### **Business Analyst - Product Owner @[rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - 2024 Apr.)**
 
-Serve dual roles as Business Analyst and Product Owner, collaborating
-with client Product Owners, Customer Experience, Product Management,
-Marketing, and Sales teams.
+Serve dual roles as Business Analyst and Product Owner, collaborating with client Product Owners, Customer Experience, Product Management, Marketing, and Sales teams.
 
 Responsibilities include eliciting requirements, managing product backlogs, preparing high-level solution documents, and writing detailed technical user stories for multi-disciplinary teams, actively contributing exploring and adding new technologies within multinational teams.
 
