@@ -71,7 +71,7 @@ effective coordination, and rapid learning capacity.
 
 ### **Sr. Business Analyst @[Backbase](https://www.backbase.com), Amsterdam 🇳🇱 (2024 May. - Present)**
 
-Working on iPaaS Solution, Grand Central, within 2 teams at the same time. Collaborating with Product Managers, Solution Architects and Backend engineers.
+Working on iPaaS Solution, Grand Central, within 2 teams at the same time. Collaborating with Product Managers, Solution Architects, Backend engineers as well as Business Analysts from other teams.
 
 Responsibilities include eliciting requirements, managing product backlogs, writing technical detailed user stories & investigating spikes by getting in touch with other parts of the organizations (amongst 2000+ employees).
 
