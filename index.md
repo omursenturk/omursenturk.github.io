@@ -69,7 +69,12 @@ effective coordination, and rapid learning capacity.
 
 ## **Experiences**
 
-### **Business Analyst - Product Owner @[rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - Present)**
+### **Sr. Business Analyst @[Backbase](https://www.backbase.com), Amsterdam 🇳🇱 (2024 May. - Present)**
+
+Working on iPaaS Solution, Grand Central. Collaborating with Product Managers, Solution Architects and Backend engineers
+
+
+### **Business Analyst - Product Owner @[rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - 2024 Apr.)**
 
 Serve dual roles as Business Analyst and Product Owner, collaborating
 with client Product Owners, Customer Experience, Product Management,
