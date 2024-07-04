@@ -133,33 +133,3 @@ Dutch: Beginner
 
 Important note: As an HSM visa holder, I will need visa sponsorship
 until 2027 March.
-
-```mermaid
-sequenceDiagram
-participant EBP
-participant Grand Central
-
-EBP ->> Grand Central: test 1
-activate Grand Central
-EBP ->> Grand Central: test 2
-activate Grand Central 
-Grand Central -->> EBP: test 2 response
-deactivate Grand Central
-Grand Central --x EBP: test 1 response
-deactivate Grand Central
-
-alt CustomerSomething
-    EBP ->> Grand Central: test 3
-    Grand Central -->> EBP: test 3 response
-end
-
-par CustomerSomething
-    EBP ->> Grand Central: test 3
-    Grand Central -->> EBP: test 3 response
-end
-
-opt CustomerSomething
-    EBP ->> Grand Central: test 3
-    Grand Central -->> EBP: test 3 response
-end
-```
