@@ -133,3 +133,40 @@ Dutch: Beginner
 
 Important note: As an HSM visa holder, I will need visa sponsorship
 until 2027 March.
+
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+<!-- Mermaid diagram -->
+<div class="mermaid">
+sequenceDiagram
+participant SystemA
+participant SystemB
+
+SystemA ->> SystemB: test 1
+activate SystemB
+SystemA ->> SystemB: test 2
+activate SystemB 
+SystemB -->> SystemA: test 2 response
+deactivate SystemB
+SystemB --x SystemA: test 1 response
+deactivate SystemB
+
+alt CustomerSomething
+    SystemA ->> SystemB: test 3
+    SystemB -->> SystemA: test 3 response
+end
+
+par CustomerSomething
+    SystemA ->> SystemB: test 3
+    SystemB -->> SystemA: test 3 response
+end
+
+opt CustomerSomething
+    SystemA ->> SystemB: test 3
+    SystemB -->> SystemA: test 3 response
+end
+</div>
