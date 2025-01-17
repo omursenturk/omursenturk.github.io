@@ -4,169 +4,91 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;"> LinkedIn
 </a>
 
-## **Shortly about me**
+# Shortly about me & What I'm looking for
+Accomplished professional with expertise in **Telecommunications, E-Commerce, and Banking**, excelling in roles such as **Technical** **Business Analyst, Product Owner, and Domain Architect**. Skilled at combining technical proficiency with strategic insight to deliver effective solutions, draw data driven conclusions and drive domain growth. 
 
-Proven expertise in Scrum methodologies and Agile practices. Adept at
-interpersonal communication and collaboration. Extensive experience as a
-Product Owner, Business Analyst, Data Analyst and Domain Architect in
-complex, multi-stakeholder environments. Proficient in managing
-integration layers and APIs across various domains. Strong technical
-foundation with a solid background in SQL and Python. Renowned for
-conducting thorough impact analysis and providing strategic solutions.
-Recognized for informed decision-making abilities, analytical skills,
-effective coordination, and rapid learning capacity.
+Seeking a leadership role to leverage expertise and guide teams toward success.
 
-## **Key areas of expertise**
+# Experience
 
-<table border="0">
-  <tr>
-    <td>Product backlog management</td>
-    <td>Business & systems analysis</td>
-    <td>Jira, Confluence</td>
-  </tr>
-  <tr>
-    <td>Informed decision making</td>
-    <td>Dependency management</td>
-    <td>Miro, Notion</td>
-  </tr>
-  <tr>
-    <td>Stakeholder management</td>
-    <td>Requirement elicitation</td>
-    <td>Ecommerce domain</td>
-  </tr>
-  <tr>
-    <td>Communication</td>
-    <td>Impact analysis</td>
-    <td>Telecom domain</td>
-  </tr>
-  <tr>
-    <td>Road mapping</td>
-    <td>Relational databases (SQL)</td>
-    <td>SaaS tools</td>
-  </tr>
-  <tr>
-    <td>Product vision</td>
-    <td>Python scripting</td>
-    <td>Open source tools</td>
-  </tr>
-  <tr>
-    <td>Data visualization</td>
-    <td>Storytelling</td>
-    <td>Jupyter, PowerBI</td>
-  </tr>
-  <tr>
-    <td>API documentation</td>
-    <td>Event-driven integration</td>
-    <td>Data synchronization</td>
-  </tr>
-  <tr>
-    <td>BPMN / UML / PlantUML</td>
-    <td>Solution documentation</td>
-    <td>Data value flows</td>
-  </tr>
-</table>
+## **Sr. Business Analyst & Domain Architect | [Backbase](https://www.backbase.com/), Amsterdam (2024 May - ...)**
+Working on internally built productized iPaaS Solution, [Grand Central](https://www.backbase.com/grandcentral) with duties of a Domain Architect. [Grand Central](https://www.backbase.com/grandcentral) is a cloud native platform for financial institutions that offers connectivity and a user-friendly developer experience that anyone can build their own connectors for any application via API integrations. It supports every major integration pattern (REST, event, file). It is [BIAN](https://bian.org/)-inspired and it aims to become a one-stop-shop backend platform that will serve for all customer journeys a financial institution can have.
 
+Collaborating with product managers, solution architects, backend engineers as well as business analysts. Responsibilities include domain modeling, defining domain structures and shared and bounded contexts, guiding development teams by designing the integration architecture in a design-first, API-focused approach, documenting ADRs and collaborating with other lead developers & domain architects & solution architects across the organization.
 
-## **Experiences**
+*Here are some of the highlights from my spell at* [Backbase](https://www.backbase.com/):
 
-### **Sr. Business Analyst @[Backbase](https://www.backbase.com), Amsterdam 🇳🇱 (2024 May. - Present)**
+**BIAN alignment**: Banking Industry Architecture Network framework has been adopted by Backbase, and Grand Central platform has been a pillar on this adoption. My duty is to make sure every architectural decision sits well with BIAN framework while maintaining the product vision intact.
 
-Working on iPaaS Solution, Grand Central, within 2 teams at the same time. Collaborating with Product Managers, Solution Architects, Backend engineers as well as Business Analysts from other teams.
+**Domain Architecting**: Actively shaped decisions around how to position next productized connector (core banking, payment processor, ID Check, ID Verification, CRM… etc. literally any 3rd party integration) on the platform, as well as identifying API domains and data models.
 
-Responsibilities include eliciting requirements, managing product backlogs, writing technical detailed user stories & investigating spikes by getting in touch with other units of the organisation (amongst 2000+ employees).
+**Productized synch solution initiatives**: Identified, documented and presented use cases for financial institutions for an event driven synchronization solution usage, therefore aiding sales team to fully align the expectations with potential clients.
 
-### **Business Analyst - Product Owner @[rb2](https://www.rb2.nl/en), Purmerend 🇳🇱 (2022 Aug. - 2024 Apr.)**
+## **Business Analyst - Product Owner | [rb2](https://www.rb2.nl/en), Purmerend, Netherlands (2022 August - 2024 April)**
+Served dual roles as client facing Business Analyst and Product Owner internally. [rb2](https://www.rb2.nl/en) is an e-commerce agency with a focus on the Dutch market, that typically does web-shop replacement projects with their cloud native [CoreConnect](https://www.core-connect.io/en) accelerator for SMB segment clients.
 
-Serve dual roles as Business Analyst and Product Owner, collaborating with client Product Owners, Customer Experience, Product Management, Marketing, and Sales teams.
+Collaborated with product owners, customer experience, product management, marketing, and sales teams. Responsibilities included eliciting requirements, managing product backlogs, preparing high-level solution documents, solution engineering during sales process for new clients, writing detailed technical user stories for multi-disciplinary, multi-national teams that use agile practices to the fullest, actively contributing to exploring and adding new technologies.
 
-Responsibilities include eliciting requirements, managing product backlogs, preparing high-level solution documents, and writing detailed technical user stories for multi-disciplinary teams, actively contributing exploring and adding new technologies within multinational teams.
+*Here are some of the highlights from my spell at* [rb2](https://www.rb2.nl/en):
 
-Other responsibilities are, overseeing stakeholder management, providing business strategy consultation, advising on application architecture, helping the team to communicate externally and internally, creating clarity out of ambiguity.
+**Re-platforming Initiatives**: Spearheaded two comprehensive web shop re-platforming initiatives as the Business Analyst of the project from inception to successful launch, orchestrating project milestones, and facilitating data-driven decision-making to enhance operational effectiveness.
 
-Here are some of the highlights from my spell at rb2:
+**Data Analysis & Python Scripting Contribution**: Proactively initiated data analysis activities for data consolidation across systems and error handling, therefore elevating customer satisfaction, and fostering a data-driven culture for strategic decision-making by using PowerBI, various data sources (flat files, databases), pivot tables and Jupyter Notebook. These activities resulted in for a client, discovering a limitation of one of their SaaS tools which later led to a workaround solution by our agency, and for another a new tool selection and implementation for their web-shop after a comprehensive order analysis. The entire python scripting solution was later deployed and was automatized and enriched with error reports emailing.
 
-*Re-platforming Initiatives*: Spearheaded two comprehensive web shop re-platforming initiatives from inception to successful launch, orchestrating project milestones, and facilitating data-driven decision-making to enhance operational effectiveness.
+## **Tech. Business Analyst | [G-Star](https://www.g-star.com/en_nl), Amsterdam, Netherlands (2022 March - 2022 July)**
+Partnered with internal Product Owners to gather requirements and develop high-level solution documents tailored for the e-commerce industry.
 
-*Data Analysis Contribution*: Proactively initiated data analysis activities, contributing additional value to projects, elevating customer satisfaction, and fostering a data-driven culture for strategic decision-making by using PowerBI, various data sources (flat files, databases), pivot tables and Jupyter Notebook.
-
-*Python Scripts for Automation*: Skilfully engineered and deployed Python scripts for automated monitoring of data integrations, enhancing operational efficiency. Automated data extraction from a variety of sources including relational databases and JSON/CSV files, ensuring robust data collection. Streamlined report generation and distribution by automating the emailing process to relevant stakeholders, significantly boosting system reliability and stakeholder engagement.
-
-### **Technical. Business Analyst @[G-Star](https://www.g-star.com/), Amsterdam 🇳🇱 (2022 Mar. -- 2022 July)**
-
-Partnered with internal Product Owners to gather requirements and develop high-level solution documents tailored for the ecommerce sector.
-
-### **Sr. Business Analyst - Product Owner @[Turkcell](https://www.turkcell.com.tr/english-support), Istanbul 🇹🇷 (2012 Aug. -- 2022 Feb.)**
-
+## **Sr. Business Analyst & Product Owner & Domain Architect | [Turkcell](https://www.turkcell.com.tr/english-support), Istanbul, Turkey (2012 August - 2022 February)**
 Functioned within the CRM domain (SOX critical) of the ICT department in the telecom industry, progressing from Business Analysis to more advanced roles like Product Owner and Domain Architect.
 
-Main responsibilities include managing application lifecycle (ITIL), data model ownership, managing product backlog of the team and dependency management for the entire domain across 10+ development teams, while keeping close collaboration a dozen business units.
+Main responsibilities include data model ownership, managing product backlog of the team and dependency management for the entire domain across 10+ development teams while keeping close collaboration a dozen business units, business and system analysis and managing application lifecycle (ITIL). Also worked as a software developer on BPMN Order Management solution.
 
 Other responsibilities were, improving team and stakeholder communication by making complex technical details easily understandable, being an advocate for the team for conflict resolutions and vendor management.
 
-Here are some of the highlights from my spell at Turkcell:
+*Here are some of the highlights from my spell at* [Turkcell](https://www.turkcell.com.tr/english-support):
 
-*CRM Database Design and Management*: Architected and implemented a comprehensive CRM database for an in-house replacement project, overseeing the rollout and successfully migrating 25 million customers, ensuring a seamless transition.
+**CRM Database Design and Management**: Architected and implemented a comprehensive CRM database for an in-house replacement project, overseeing and planning the rollout and successfully migrating 25 million customers, ensuring a seamless transition, with no (zero) down-time during the migration. Won CEO special award for the seamless migration project.
 
-*Error Monitoring Reports*: Developed scheduled working reports from inception to monitor system errors, assign action owners. Distributed these reports to the whole domain with exchange server integrations, enriched with insightful diagrams with the help of Seaborn and Matplotlib libraries in Python.
+**Domain Architect Recognition**: Recognized as the sole 'Domain Architect' in the CRM domain among 250 engineers, demonstrating exceptional analytical and architectural expertise, maintaining product vision and being the advocate of it across the entire organization for our unit.
 
-*Domain Architect Recognition*: Recognized as the sole \'Domain Architect\' in the CRM domain among 250 engineers, demonstrating exceptional analytical and architectural expertise.
+**Error Monitoring Reports**: Developed and scheduled working reports from inception to monitor system errors, assign action owners. Automatized the emailing of these reports that's enriched with insightful diagrams with Python to the whole unit.
 
-*Pioneering Business Analyst*: Pioneered as the first business analyst to write code and deploy it to production within the CRM domain, setting a new standard for technical contribution.
+**Pioneering Business Analyst**: Pioneered as the first business analyst to write Java code and deploy it to production within the CRM domain, setting a new standard for technical contribution.
 
-### **Jr. Test Engineer @[Ericsson](https://www.ericsson.com/), Istanbul 🇹🇷 (2009 Jan. -- 2011 Dec.)**
-
+## **Jr. Test Engineer | [Ericsson](https://www.ericsson.com/), Istanbul, Turkey (2009 January - 2011 December)**
 Developed and executed manual test scenarios for product releases, maintaining close collaboration with developers, business analysts, sales, marketing and other key stakeholders.
 
-## **Education**
+# **Education**
+[Galatasaray University](https://gsu.edu.tr/en) - Engineering Management, Master of Science, 2017, Istanbul Turkey
 
-[Galatasaray University](https://gsu.edu.tr/en) -- Engineering Management, M.Sc. 2017, Istanbul Turkey
+[University of Southern Denmark](https://www.sdu.dk/en) - Manufacturing and Engineering, Erasmus, 2010, Odense, Denmark
 
-[Uni. of Southern Denmark](https://www.sdu.dk/en) -- Manufac. and Engineering, Erasmus, 2010, Odense, Denmark
+[Yildiz Technical University](https://yildiz.edu.tr/en) - Industrial Engineering, Bachelor of Engineering 2010, Istanbul Turkey
 
-[Yildiz Technical University](https://yildiz.edu.tr/en) -- Industrial Engineering. B.Eng. 2010, Istanbul Turkey
+# **Skills & Experience**
+Experienced working with CRM, Order fulfilment, Web shop, PIM, ERP, Billing, Core banking, Payment service provider and Payment processor applications
 
-## **Languages** 
+Technical and solution architecture documentation (API Specs, UML Sequence diagrams, Data flow diagrams, Database schemas, Technology & Data & Integration architecture)
 
-English: Fluent 
-Turkish: Mother tongue 
-Dutch: Beginner
+Product backlog management, road mapping, prioritization, dependency management
 
-Important note: As an HSM visa holder, I will need visa sponsorship
-until 2027 March.
+Business & systems analysis, information architecture building
 
+Telecom, Banking and E-Commerce industries
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+Asynchronous (event bus, Async API) and synchronous (REST-SOAP-GraphQL-gRPC) integration patterns
 
-<!-- Mermaid diagram -->
-<div class="mermaid">
-sequenceDiagram
-participant SystemA
-participant SystemB
+Programming languages (Python, SQL, XSLT, BPMN, Java)
 
-SystemA ->> SystemB: test 1
-activate SystemB
-SystemA ->> SystemB: test 2
-activate SystemB 
-SystemB -->> SystemA: test 2 response
-deactivate SystemB
-SystemB --x SystemA: test 1 response
-deactivate SystemB
+Python scripting for automatization and testing
 
-alt CustomerSomething
-    SystemA ->> SystemB: test 3
-    SystemB -->> SystemA: test 3 response
-end
+Data visualization
 
-par CustomerSomething
-    SystemA ->> SystemB: test 3
-    SystemB -->> SystemA: test 3 response
-end
+# **Languages**
+English: Fluent
 
-opt CustomerSomething
-    SystemA ->> SystemB: test 3
-    SystemB -->> SystemA: test 3 response
-end
-</div>
+Turkish: Mother tongue
+
+Dutch: Beginner (A1, ongoing training to improve to A2)
+
+**Important note**: As an HSM visa holder, I will need visa sponsorship until 2027 March.
